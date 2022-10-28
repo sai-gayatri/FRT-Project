@@ -1,8 +1,8 @@
-# Future Ready Talent - Memorial Books
+# Future Ready Talent - Nail Salon
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.nett
 
 
 
@@ -36,17 +36,17 @@ as our solution we made a webpage that where we kept few books and their cloud l
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
-![pc cap](https://user-images.githubusercontent.com/110035582/197511434-dfb6eaf9-c80c-4394-999f-176908ee8bd0.png)
+
 
 
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--  B Sailu
+-  S Sai Gayatri
 
--  P Deepthi Sai Lakshmi
+-  D Varshini
 
--  V Madhulatha
+-  N Teja Sri
 
 
 # Privacy Policies 
