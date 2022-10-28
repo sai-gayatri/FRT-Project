@@ -6,8 +6,8 @@ AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.nett
 
 
 
-Memorial Books is our project that is done as the solution , is a collection of various famous books 
-as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
+Nail Salon is our project that is done as the solution , it is a Creative way to Paint, Decorate, Enhance, Embellish Nails.
+It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. overtime we discover so many great things about nail art that eventually, so we decided to create a website to just pay tribute to the activity that brought us all together
 
 
 # Features
@@ -51,5 +51,5 @@ We are BTech pursuing Students,from 3rd year we consider this as problem as we f
 
 # Privacy Policies 
 
-https://www.freeprivacypolicy.com/live/7e83fb18-9507-4fd1-b6e8-6c24bc4bf5c2
+https://www.freeprivacypolicy.com/live/e91e49db-8b60-484f-ae19-7f3b57bd5cc1
 
