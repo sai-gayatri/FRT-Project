@@ -36,6 +36,7 @@ It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. ov
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
+![Nail Salon cap](https://user-images.githubusercontent.com/111056292/198515203-6c32a6eb-b19f-4b5b-b329-7925a68df570.jpg)
 
 
 
