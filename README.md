@@ -2,11 +2,11 @@
 
 
 
-AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.nett
+AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.net
 
-YOUTUBE LINK : 
+YOUTUBE LINK : https://youtu.be/FvBk-BXeYXE
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: 
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
