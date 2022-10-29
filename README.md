@@ -9,7 +9,7 @@ YOUTUBE LINK : https://youtu.be/FvBk-BXeYXE
 PROJECT DEMO URL:  https://sai-gayatri.github.io/FRT-Project/
 
 
-PROJECT LINK(GITHUB REPOSITORY : 
+PROJECT LINK(GITHUB REPOSITORY) : https://github.com/sai-gayatri/FRT-Project
 
 
 
