@@ -28,8 +28,9 @@ It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. ov
 -  Css
 
 -  Js
+
 -  Github Tools
--  
+  
 -  Azure Static Web Apps
 
 # Compatibility
@@ -56,15 +57,18 @@ It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. ov
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+
+![gayatri azr web cap](https://user-images.githubusercontent.com/111056292/198830320-f3681289-87c6-40bb-8d39-7c6d74d03479.jpg)
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+![gayatri github act](https://user-images.githubusercontent.com/111056292/198830340-94234f50-1501-4607-87b2-43dfee8312b8.jpg)
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+![gayatri wrkflows](https://user-images.githubusercontent.com/111056292/198830370-df2435f4-05ed-49c2-a14d-85ad5a65fd9c.jpg)
+
 
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
@@ -74,6 +78,7 @@ It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. ov
 # Screenshot
 ![Nail Salon cap](https://user-images.githubusercontent.com/111056292/198515203-6c32a6eb-b19f-4b5b-b329-7925a68df570.jpg)
 
+![gayatri mob cap](https://user-images.githubusercontent.com/111056292/198830376-13839c74-2308-4dbf-ae74-2d3e92265837.jpg)
 
 
 # About Us
