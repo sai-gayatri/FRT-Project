@@ -4,6 +4,15 @@
 
 AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.nett
 
+YOUTUBE LINK : 
+
+PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+
+
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+
+
+
 
 
 Milina is our project that is done as the solution , it is a Creative way to Paint, Decorate, Enhance, Embellish Nails.
