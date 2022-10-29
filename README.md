@@ -6,10 +6,10 @@ AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/FvBk-BXeYXE
 
-PROJECT DEMO URL: 
+PROJECT DEMO URL:  https://sai-gayatri.github.io/FRT-Project/
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : 
 
 
 
