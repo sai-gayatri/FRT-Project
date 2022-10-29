@@ -1,4 +1,4 @@
-# Future Ready Talent - Nail Salon
+# Future Ready Talent -Milina
 
 
 
@@ -6,7 +6,7 @@ AZURE LINK : https://calm-glacier-00e5f9f00.2.azurestaticapps.nett
 
 
 
-Nail Salon is our project that is done as the solution , it is a Creative way to Paint, Decorate, Enhance, Embellish Nails.
+Milina is our project that is done as the solution , it is a Creative way to Paint, Decorate, Enhance, Embellish Nails.
 It is satisfying, rewarding, fun, Relaxing, and Challenging at the same time. overtime we discover so many great things about nail art that eventually, so we decided to create a website to just pay tribute to the activity that brought us all together
 
 
